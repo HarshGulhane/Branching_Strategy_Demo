@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1em;
+    background: #f9f9f9;
+}
+header {
+    background: #333;
+    color: white;
+    padding: 1em;
+}
+nav a {
+    color: #ddd;
+    text-decoration: none;
+    margin: 0 0.5em;
+}
+nav a:hover {
+    color: white;
+}
+article {
+    background: white;
+    padding: 1em;
+    margin-top: 1em;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
