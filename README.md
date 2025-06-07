@@ -44,7 +44,3 @@ git merge release/v1.0
 ```
 git push origin main develop release/v1.0
 ```
-
----
-
-Feel free to extend this project by adding more blog posts or pages and practicing the branching workflow!
